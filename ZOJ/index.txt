@@ -1,0 +1,41 @@
+浙大acm在线判定系统
+
+
+http://acm.zju.edu.cn/onlinejudge/
+账号：yangfei9592       axc
+其他资料真实
+
+按通过数排行的题目：
+http://acm.zju.edu.cn/onlinejudge/showProblems.do?contestId=1&pageNumber=1&order=ac
+
+题目链接：
+http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=
+
+题目列表
+1001 A+B Problem
+1240 4.01 IBM Minus One
+1383 4.02 Binary Numbers
+2478 4.03 Encoding
+2812 4.04 Quicksum
+2886 4.05 Look and Say
+2947 4.06 Abbreviation
+2932 4.07 The Seven Percent Solution
+1115 4.08 Digital Roots
+1251 4.09 Box of Bricks
+1241 4.10 Geometry Made Simple
+1295 4.11 Reverse Text
+1151 4.12 Word Reversal
+1259 Rails*
+1763 4.13 A Simple Question of Chemistry
+2001 4.14
+2857 4.15
+2850 4.16
+1188 4.17
+2736 4.18
+1949 4.19
+1205 4.20
+2109 4.21
+2727 4.22
+2722 4.23
+2724 4.24
+1109 4.25
