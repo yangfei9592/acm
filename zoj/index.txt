@@ -30,8 +30,8 @@ http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=
 2001 4.14 Adding Reversed Numbers
 2857 4.15 Image Transformation
 2850 4.16 Beautiful Meadow *python
-1188 4.17
-2736 4.18
+1188 4.17 DNA Sorting
+2736 4.18 Daffodil number
 1949 4.19
 1205 4.20
 2109 4.21
