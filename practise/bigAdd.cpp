@@ -5,8 +5,10 @@ std::string sum(std::string &s1,std::string &s2);
 
 int main(int argc,char ** argv)
 {
-	std::string s1 = "12345";
-	std::string s2 = "23456776654";
+	std::string s1 = "812345";
+	std::string s2 = "234567";
+	std::cout << s1 << " + " << std::endl;
+	std::cout << s2 << " = " << std::endl;
 	std::cout << sum(s1,s2) <<std::endl;
 }
 
@@ -20,7 +22,7 @@ std::string sum(std::string &s1,std::string &s2)
 	int len2 = s2.length();
 	int maxlen = len1 > len2 ? len1 : len2;
 	std::string result;
-	for(int i = 0; i < maxlen; ++i)
+	for(int i = 0; i < maxlen + 1; ++i)
 	{
 		int c1 = i < len1 ? s1[i] - '0' : 0;
 		int c2 = i < len2 ? s2[i] - '0' : 0;
